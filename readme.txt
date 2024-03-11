@@ -1,4 +1,4 @@
 Welcome to MyProject
 
-Author: Patel
+Author: ManavPatel
 Twitter: @Manav
